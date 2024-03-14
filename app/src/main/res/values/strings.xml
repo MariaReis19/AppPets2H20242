@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="insira_seu_usu_rio">Insira seu usuário</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+    <string name="n_o_tem_cadastro_clique_aqui">Não tem cadastro? Clique aqui.</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+</resources>
